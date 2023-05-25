@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?Soul-Xettri=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user?=Soul-Xettri=DenverCoder1)](https://git.io/streak-stats)
 
 
 <!--
