@@ -1,4 +1,5 @@
-### Hi there 👋
+[![GitHub Streak](https://streak-stats.demolab.com/?Soul-Xettri=DenverCoder1)](https://git.io/streak-stats)
+
 
 <!--
 **Soul-Xettri/Soul-Xettri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
