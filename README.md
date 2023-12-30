@@ -28,9 +28,9 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="Nest.js" width="40" height="40" style="display:inline-block; margin-right: 10px;">](https://nestjs.com/)&nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" style="display:inline-block; margin-right: 10px;">](https://nodejs.org)&nbsp;&nbsp;
 [<img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="Express.js" width="40" height="40" style="display:inline-block; margin-right: 10px;">](https://expressjs.com)&nbsp;&nbsp;
+
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40" style="display:inline-block; margin-right: 10px;">](https://laravel.com/)&nbsp;&nbsp;
 [<img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" alt="Prisma" width="70" height="50" style="display:inline-block; margin-right: 10px;">](https://www.prisma.io/)
-
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" style="display:inline-block; margin-right: 10px;">](https://www.mongodb.com/)&nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="display:inline-block; margin-right: 10px;">](https://www.mysql.com/)&nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" style="display:inline-block; margin-right: 10px;">](https://www.postgresql.org)
