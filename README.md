@@ -12,6 +12,7 @@
 <a href="https://twitter.com/turuhate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="turuhate" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rakesh-chhetri-91479a270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakesh-chhetri-91479a270" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21966861/soul-xettri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21966861/soul-xettri" height="30" width="40" /></a>
+<a href= "Https://www.upwork.com/freelancers/~01f7419096cd15cf5c" target="blank"><img align="Center" src="https://assets-global.website-files.com/603fea6471d9d8559d077603/6092b7514135708162a4be92_Favicon%20256.png" alt="Freelancers/~01f7419096cd15cf5c" height="30 width="30"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
