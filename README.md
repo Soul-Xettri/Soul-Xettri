@@ -38,10 +38,11 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Connect with me:
+### Socials:
 
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkden" width="40" height="40" style="display:inline-block; margin-right: 10px;">](https://linkedin.com/in/rakesh-chhetri-91479a270)&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="Linkden" width="40" height="40" style="display:inline-block; margin-right: 10px;">](https://linkedin.com/in/rakesh-chhetri-91479a270)&nbsp;&nbsp;
 [<img src="https://assets-global.website-files.com/603fea6471d9d8559d077603/6092b7514135708162a4be92_Favicon%20256.png" alt="Upwork" width="40" height="40" style="display:inline-block; margin-right: 10px;">](https://www.upwork.com/freelancers/~01f7419096cd15cf5c)&nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack-overflow" width="40" height="40" style="display:inline-block; margin-right: 10px;">](https://stackoverflow.com/users/21966861/soul-xettri)&nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" height="40" style="display:inline-block; margin-right: 10px;">](https://twitter.com/turuhate)&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" alt="Twitter" width="40" height="40" style="display:inline-block; margin-right: 10px;">](https://twitter.com/turuhate)&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" alt="Disocrd" width="40" height="40" style="display:inline-block; margin-right: 10px;">](https://discord.com/users/821381492717387836)&nbsp;&nbsp;
 
