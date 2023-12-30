@@ -34,6 +34,9 @@
 [<img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" alt="Prisma" width="70" height="50" style="display:inline-block; margin-right: 10px;">](https://www.prisma.io/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" style="display:inline-block; margin-right: 10px;">](https://www.mongodb.com/)&nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="display:inline-block; margin-right: 10px;">](https://www.mysql.com/)&nbsp;&nbsp;
+####
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" style="display:inline-block; margin-right: 10px;">](https://www.postgresql.org)
+[<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="40" style="display:inline-block; margin-right: 10px;">](https://git-scm.com/)&nbsp;&nbsp;
+[<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="40" style="display:inline-block; margin-right: 10px;">](https://postman.com)&nbsp;&nbsp;
 
 
