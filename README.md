@@ -8,7 +8,7 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Soul-Xettri&theme=dark&card_width=500)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soul-xettri&hide=html,css&langs_count=8&layout=compact&title_color=fff&text_color=fff&bg_color=121212)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Soul-Xettri&theme=dark&card_width=550)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soul-xettri&hide=html,css&langs_count=8&layout=compact&title_color=fff&text_color=fff&bg_color=121212)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
