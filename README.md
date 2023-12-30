@@ -35,6 +35,14 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="display:inline-block; margin-right: 10px;">](https://www.mysql.com/)&nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" style="display:inline-block; margin-right: 10px;">](https://www.postgresql.org)
 [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="40" style="display:inline-block; margin-right: 10px;">](https://git-scm.com/)&nbsp;&nbsp;
-[<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="40" style="display:inline-block; margin-right: 10px;">](https://postman.com)&nbsp;&nbsp;
+[<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" style="display:inline-block; margin-right: 10px;">](https://postman.com)&nbsp;&nbsp;
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Connect with me:
+
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkden" width="40" height="40" style="display:inline-block; margin-right: 10px;">](https://linkedin.com/in/rakesh-chhetri-91479a270)&nbsp;&nbsp;
+[<img src="https://assets-global.website-files.com/603fea6471d9d8559d077603/6092b7514135708162a4be92_Favicon%20256.png" alt="Upwork" width="40" height="40" style="display:inline-block; margin-right: 10px;">](https://www.upwork.com/freelancers/~01f7419096cd15cf5c)&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack-overflow" width="40" height="40" style="display:inline-block; margin-right: 10px;">](https://stackoverflow.com/users/21966861/soul-xettri)&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" height="40" style="display:inline-block; margin-right: 10px;">](https://twitter.com/turuhate)&nbsp;&nbsp;
 
