@@ -8,7 +8,7 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Soul-Xettri&theme=dark&card_width=520)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soul-xettri&hide=html,css&langs_count=8&layout=compact&title_color=fff&text_color=fff&bg_color=121212)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Soul-Xettri&theme=dark&card_width=500)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soul-xettri&hide=html,css&langs_count=8&layout=compact&title_color=fff&text_color=fff&bg_color=121212)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -30,7 +30,6 @@
 [<img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="Express.js" width="40" height="40" style="display:inline-block; margin-right: 10px;">](https://expressjs.com)&nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40" style="display:inline-block; margin-right: 10px;">](https://laravel.com/)&nbsp;&nbsp;
 [<img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" alt="Prisma" width="70" height="50" style="display:inline-block; margin-right: 10px;">](https://www.prisma.io/)
-####
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" style="display:inline-block; margin-right: 10px;">](https://www.mongodb.com/)&nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="display:inline-block; margin-right: 10px;">](https://www.mysql.com/)&nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" style="display:inline-block; margin-right: 10px;">](https://www.postgresql.org)
