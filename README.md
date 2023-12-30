@@ -1,6 +1,6 @@
 ༼ ▀̿̿Ĺ̯̿̿▀̿ ̿༽ HELLO 👋
 
-- 🔭 I’m currently working on **Rebuzz (POS)**
+- 🔭 I’m currently working on **Rebuzz (POS-Backend)**
 
 - 🌱 I’m currently learning **Cyber Security**
 
