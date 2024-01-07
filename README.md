@@ -1,6 +1,6 @@
 ༼ ▀̿̿Ĺ̯̿̿▀̿ ̿༽ HELLO 👋
 
-- 🔭 I’m currently working on **Rebuzz (POS-Backend) and MamaSweep**
+- 🔭 I’m currently working on **Rebuzz (POS-Backend) and MamaSweep (Full-Stack)**
 
 - 🌱 I’m currently learning **Cyber Security**
 
