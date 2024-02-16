@@ -1,8 +1,8 @@
 ༼ ▀̿̿Ĺ̯̿̿▀̿ ̿༽ HELLO 👋
 
-- 🔭 I’m currently working on **Rebuzz (POS-Backend) and MamaSweep (Full-Stack)**
+- 🔭 I’m currently working on **Rebuzz - Ordering APP (POS-Backend)**
 
-- 🌱 I’m currently learning **Cyber Security**
+- 🌱 I’m currently using **NodeJS**
 
 - 📫 How to reach me **soulchhetri@gmail.com**
 
