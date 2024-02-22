@@ -1,6 +1,6 @@
 ༼ ▀̿̿Ĺ̯̿̿▀̿ ̿༽ HELLO 👋
 
-- 🔭 I’m currently working on **Rebuzz - Ordering APP (POS-Backend)**
+- 🔭 I’m currently working on **Company's Project**
 
 - 🌱 I’m currently using **NodeJS**
 
