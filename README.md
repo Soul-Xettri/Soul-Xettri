@@ -26,12 +26,12 @@
 [<img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap" width="40" height="40" style="display:inline-block; margin-right: 10px;">](https://getbootstrap.com)&nbsp;&nbsp;
 [<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" style="display:inline-block; margin-right: 10px;">](https://tailwindcss.com/)&nbsp;&nbsp;
 [<img src="https://nestjs.com/logo-small.ede75a6b.svg" alt="Nest.js" width="40" height="40" style="display:inline-block; margin-right: 10px;">](https://nestjs.com/)&nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" style="display:inline-block; margin-right: 10px;">](https://nodejs.org)&nbsp;&nbsp;
+[<img src="https://nodejs.org/static/images/logo.svg" alt="Node.js" width="40" height="40" style="display:inline-block; margin-right: 10px;">](https://nodejs.org)&nbsp;&nbsp;
 [<img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="Express.js" width="40" height="40" style="display:inline-block; margin-right: 10px;">](https://expressjs.com)&nbsp;&nbsp;
 [<img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="40" height="40" style="display:inline-block; margin-right: 10px;">](https://laravel.com/)&nbsp;&nbsp;
-[<img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" alt="Prisma" width="70" height="50" style="display:inline-block; margin-right: 10px;">](https://www.prisma.io/)
+[<img src="https://prismalens.vercel.app/header/logo-white.svg" alt="Prisma" width="70" height="50" style="display:inline-block; margin-right: 10px;">](https://www.prisma.io/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" style="display:inline-block; margin-right: 10px;">](https://www.mongodb.com/)&nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="display:inline-block; margin-right: 10px;">](https://www.mysql.com/)&nbsp;&nbsp;
+[<img src="https://labs.mysql.com/common/logos/mysql-logo.svg?v2" alt="MySQL" width="40" height="40" style="display:inline-block; margin-right: 10px;">](https://www.mysql.com/)&nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" style="display:inline-block; margin-right: 10px;">](https://www.postgresql.org)
 [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="40" style="display:inline-block; margin-right: 10px;">](https://git-scm.com/)&nbsp;&nbsp;
 [<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" style="display:inline-block; margin-right: 10px;">](https://postman.com)&nbsp;&nbsp;
