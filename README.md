@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Company's Project**
 
-- 🌱 I’m currently using **NodeJS**
+- 🌱 I’m currently using **MERN STACK**
 
 - 📫 How to reach me **soulchhetri@gmail.com**
 
